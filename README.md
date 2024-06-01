@@ -1,2 +1,2 @@
-# Zirconium.exe
-my last reshacked malware
+# Zirconium
+C++ short skidded GDI trojan by Comium92
